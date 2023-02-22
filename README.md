@@ -1,7 +1,7 @@
 🌍 Website: https://foodmine-vtiv.onrender.com/
 
 ##  Lessons
-1. Introduciton to the course
+1. Introduciton to the app
 2. Install development tools
 3. Create Angular App
    1. Create project's folder
