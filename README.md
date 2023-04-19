@@ -1,3 +1,3 @@
-## Food Mine App
+## Food Mine Application
 
 🌍 Website: https://foodmine-vtiv.onrender.com
